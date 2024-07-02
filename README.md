@@ -39,9 +39,9 @@
 
 <h3 align="left">Pinned Repositories:</h3>
 <p align="left">
-<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://via.placeholder.com/150" alt="Hall Management Project" /></a>
-<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://via.placeholder.com/150" alt="Library Management Project" /></a>
-<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://via.placeholder.com/150" alt="World Travel Project" /></a>
+<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://navtark.com/wp-content/uploads/2023/05/Hostel-Management_03-1024x576.webp" alt="Hall Management Project" /></a>
+<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://my.chartered.college/wp-content/uploads/2021/10/martin-adams-1062002-unsplash.jpg" alt="Library Management Project" /></a>
+<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?w=740&t=st=1719952111~exp=1719952711~hmac=dc3a13a4114aba53d827ffb64aa673eb3863ea600f79d2f08ad435b80fd2bd18" alt="World Travel Project" /></a>
 </p>
 
 <h3 align="left">Project Details:</h3>
