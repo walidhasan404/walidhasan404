@@ -39,9 +39,9 @@
 
 <h3 align="left">Pinned Repositories:</h3>
 <p align="left">
-<a href="https://github.com/walidhasan404/project1" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project1" alt="project1" /></a>
-<a href="https://github.com/walidhasan404/project2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project2" alt="project2" /></a>
-<a href="https://github.com/walidhasan404/project3" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project3" alt="project3" /></a>
+<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project1" alt="project1" /></a>
+<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project2" alt="project2" /></a>
+<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project3" alt="project3" /></a>
 </p>
 
 <h3 align="left">Project Details:</h3>
