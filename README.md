@@ -38,7 +38,7 @@
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidhasan404" alt="walidhasan404" /></p>
 
 <h3 align="left">Pinned Repositories:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; margin-x: auto; gap: 20px;">
   <p align="left"><a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank">Hall Management</a></p>
   <div style="flex: 1; min-width: 200px;">
     <img src="https://navtark.com/wp-content/uploads/2023/05/Hostel-Management_03-1024x576.webp" alt="Hall Management Project" style="width: 50%; height: auto;" />
