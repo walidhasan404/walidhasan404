@@ -38,21 +38,21 @@
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidhasan404" alt="walidhasan404" /></p>
 
 <h3 align="left">Pinned Repositories:</h3>
-<div style="display: flex; flex-wrap: wrap; margin-x: auto; gap: 20px;">
-  <p align="left"><a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank">Hall Management</a></p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 200px;">
-    <img src="https://navtark.com/wp-content/uploads/2023/05/Hostel-Management_03-1024x576.webp" alt="Hall Management Project" style="width: 50%; height: auto;" />
-    
+    <img src="https://navtark.com/wp-content/uploads/2023/05/Hostel-Management_03-1024x576.webp" alt="Hall Management Project" style="width: 100%; height: auto;" />
+    <p align="center"><a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank">Hall Management</a></p>
+    <p align="center"><a href="https://muktijoddha-hall.web.app" target="_blank">Live Project</a></p>
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <p align="left"><a href="https://github.com/walidhasan404/Library-Management.git" target="_blank">Library Management</a></p>
-    <img src="https://my.chartered.college/wp-content/uploads/2021/10/martin-adams-1062002-unsplash.jpg" alt="Library Management Project" style="width: 50%; height: auto;" />
-    
+    <img src="https://my.chartered.college/wp-content/uploads/2021/10/martin-adams-1062002-unsplash.jpg" alt="Library Management Project" style="width: 100%; height: auto;" />
+    <p align="center"><a href="https://github.com/walidhasan404/Library-Management.git" target="_blank">Library Management</a></p>
+    <p align="center"><a href="https://library-management-86cd6.web.app" target="_blank">Live Project</a></p>
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <p align="left"><a href="https://github.com/walidhasan404/World-Travel.git" target="_blank">World Travel</a></p>
-    <img src="https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?w=740&t=st=1719952111~exp=1719952711~hmac=dc3a13a4114aba53d827ffb64aa673eb3863ea600f79d2f08ad435b80fd2bd18" alt="World Travel Project" style="width: 50%; height: auto;" />
-    
+    <img src="https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?w=740&t=st=1719952111~exp=1719952711~hmac=dc3a13a4114aba53d827ffb64aa673eb3863ea600f79d2f08ad435b80fd2bd18" alt="World Travel Project" style="width: 100%; height: auto;" />
+    <p align="center"><a href="https://github.com/walidhasan404/World-Travel.git" target="_blank">World Travel</a></p>
+    <p align="center"><a href="http://walid-travel.surge.sh" target="_blank">Live Project</a></p>
   </div>
 </div>
 
@@ -88,8 +88,4 @@
   - Itinerary planning
   - Booking management
   - User review system
-- **Technologies Used:** React, Node.js, MongoDB
-- **Setup Steps:**
-  1. Clone the repository.
-  2. Install dependencies with `npm install`.
-  3. Run the app with `npm start`.
+- **Technologies Used:** React, Node
