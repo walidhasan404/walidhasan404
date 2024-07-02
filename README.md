@@ -39,7 +39,7 @@
 
 <h3 align="left">Pinned Repositories:</h3>
 <p align="left">
-<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project1" alt="project1" /></a>
+<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnavtark.com%2Fthe-ultimate-guide-to-student-hostel-management-software%2F&psig=AOvVaw1Fcgg2dmLZ2zuQNHtVgHxr&ust=1720038001047000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHkYaXiYcDFQAAAAAdAAAAABAE" alt="project1" /></a>
 <a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project2" alt="project2" /></a>
 <a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project3" alt="project3" /></a>
 </p>
