@@ -1,4 +1,4 @@
-![Banner Image](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1725494400&v=beta&t=zLemp0IaMuC7PXgGqORh35151XlWivQ08PykrKfMQtE)
+![Banner Image](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1725494400&v=beta&t=zLemp0IaMuC7PXgGqORh35151XlWivQ08PykrKfMQtE)
 
 <h1 align="center">Hi 👋, I'm Muhammad Walid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/olide-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olide hasan" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad-olide-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad olide hasan" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.olide.hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad olide hasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
