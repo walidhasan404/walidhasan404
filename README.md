@@ -1,4 +1,4 @@
-![Banner Image]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1725494400&v=beta&t=zLemp0IaMuC7PXgGqORh35151XlWivQ08PykrKfMQtE))
+![Banner Image](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1725494400&v=beta&t=zLemp0IaMuC7PXgGqORh35151XlWivQ08PykrKfMQtE)
 
 <h1 align="center">Hi 👋, I'm Muhammad Walid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
