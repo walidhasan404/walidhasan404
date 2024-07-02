@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhasan404&label=Profile%20views&color=0e75b6&style=flat" alt="walidhasan404" /> </p>
 
-- 🌱 I’m currently learning **More about React, Next.js, TypeScript**
+- 🌱 I’m currently learning **More about React, Next.js**
 - 💬 Ask me about **JavaScript, React, Node, Express, MongoDB**
 - 📫 How to reach me **olidehasan444@gmail.com**
 
