@@ -47,13 +47,17 @@
 <h3 align="center">Projects</h3>
 
 ### Hall Management
-- **Overview:** Efficiently manage student accommodations with automated room assignments, maintenance tracking, and billing.
+Website: Muktijoddha Hall Management System
+- **Overview:** Efficiently handle student's dining section. The dining manager is the admin of the website and can add meals, handle users and also can handle their interaction. Students can give request for food and share their feedback, they can like and give reviews on different meals. They can payment for their requested food and get served the food. Manager and students have different dashboards and they can handle their information individually.
+  
 - **Technologies:** React, Node.js, MongoDB
 
 ### Library Management
-- **Overview:** Streamline library operations with features for book management and user accounts.
+Website: Library Management System
+- **Overview:** The Library Management System is designed to streamline library operations, offering functionalities for efficient book management, user account management, and inventory tracking. Students can borrow books.
 - **Technologies:** React, Node.js, MongoDB
 
 ### World Travel
-- **Overview:** Plan and book travel experiences with itinerary management and booking features.
+Website: Walid Travel
+- **Overview:** Walid Travel is a platform designed for planning and booking travel experiences. It offers tools for itinerary planning, booking management, and user reviews, making it convenient for travelers to explore and organize their trips.
 - **Technologies:** React, Node.js, MongoDB
