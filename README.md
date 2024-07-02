@@ -39,43 +39,43 @@
 
 <h3 align="left">Pinned Repositories:</h3>
 <p align="left">
-<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnavtark.com%2Fthe-ultimate-guide-to-student-hostel-management-software%2F&psig=AOvVaw1Fcgg2dmLZ2zuQNHtVgHxr&ust=1720038001047000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHkYaXiYcDFQAAAAAdAAAAABAE" alt="project1" /></a>
-<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmy.chartered.college%2Fimpact_article%2Fusing-your-library-management-system-to-improve-digital-and-information-literacy-in-secondary-schools%2F&psig=AOvVaw10NGwM1By0I-bhc3O16p3A&ust=1720038095675000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC1n7OXiYcDFQAAAAAdAAAAABAE" alt="project2" /></a>
-<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftravel-logo&psig=AOvVaw1DEL9Z18hSkjoUd27Rjjy0&ust=1720038148060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD1is2XiYcDFQAAAAAdAAAAABAE" /></a>
+<a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://via.placeholder.com/150" alt="Hall Management Project" /></a>
+<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://via.placeholder.com/150" alt="Library Management Project" /></a>
+<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://via.placeholder.com/150" alt="World Travel Project" /></a>
 </p>
 
 <h3 align="left">Project Details:</h3>
 
-### Project 1
-- **Overview:** This project solves XYZ problem by providing ABC solutions.
+### Hall Management
+- **Overview:** This project aims to manage student accommodations efficiently by providing a streamlined system for room assignments, maintenance requests, and billing.
 - **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Room assignment automation
+  - Maintenance request tracking
+  - Billing and payment management
 - **Technologies Used:** React, Node.js, MongoDB
 - **Setup Steps:**
   1. Clone the repository.
   2. Install dependencies with `npm install`.
   3. Run the app with `npm start`.
 
-### Project 2
-- **Overview:** This project aims to address ABC challenge by implementing DEF features.
+### Library Management
+- **Overview:** This project facilitates efficient management of library resources, including book checkouts, returns, and inventory tracking.
 - **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Book checkout and return system
+  - Inventory management
+  - User account management
 - **Technologies Used:** React, Node.js, MongoDB
 - **Setup Steps:**
   1. Clone the repository.
   2. Install dependencies with `npm install`.
   3. Run the app with `npm start`.
 
-### Project 3
-- **Overview:** A comprehensive solution for DEF problem, enhancing user experience through GHI.
+### World Travel
+- **Overview:** This project offers a comprehensive solution for planning and booking travel experiences, with features for itinerary creation, booking management, and user reviews.
 - **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Itinerary planning
+  - Booking management
+  - User review system
 - **Technologies Used:** React, Node.js, MongoDB
 - **Setup Steps:**
   1. Clone the repository.
