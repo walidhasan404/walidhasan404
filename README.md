@@ -40,8 +40,8 @@
 <h3 align="left">Pinned Repositories:</h3>
 <p align="left">
 <a href="https://github.com/walidhasan404/Hall-Management.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnavtark.com%2Fthe-ultimate-guide-to-student-hostel-management-software%2F&psig=AOvVaw1Fcgg2dmLZ2zuQNHtVgHxr&ust=1720038001047000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHkYaXiYcDFQAAAAAdAAAAABAE" alt="project1" /></a>
-<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project2" alt="project2" /></a>
-<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walidhasan404&repo=project3" alt="project3" /></a>
+<a href="https://github.com/walidhasan404/Library-Management.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmy.chartered.college%2Fimpact_article%2Fusing-your-library-management-system-to-improve-digital-and-information-literacy-in-secondary-schools%2F&psig=AOvVaw10NGwM1By0I-bhc3O16p3A&ust=1720038095675000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC1n7OXiYcDFQAAAAAdAAAAABAE" alt="project2" /></a>
+<a href="https://github.com/walidhasan404/World-Travel.git" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftravel-logo&psig=AOvVaw1DEL9Z18hSkjoUd27Rjjy0&ust=1720038148060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD1is2XiYcDFQAAAAAdAAAAABAE" /></a>
 </p>
 
 <h3 align="left">Project Details:</h3>
