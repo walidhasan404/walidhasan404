@@ -60,4 +60,4 @@ Website: https://library-management-86cd6-e1cb9.web.app
 ### World Travel
 Website: walid-travel.surge.sh
 - **Overview:** Walid Travel is a platform designed for planning and booking travel experiences. It offers tools for itinerary planning, booking management, and user reviews, making it convenient for travelers to explore and organize their trips.
-- **Technologies:** React, Node.js, MongoDB
+- **Technologies:** React, Node.js, MongoDB 
