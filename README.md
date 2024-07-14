@@ -4,14 +4,15 @@
 
 <h1 align="center">Muhammad Walid</h1>
 <h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
+<h5 align="center">My Portfolio: <a href="https://portfolio-49220.web.app/" target="_blank">https://portfolio-49220.web.app/</a></h5>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1725494400&v=beta&t=eVBqYpkxNdqPem-Y8c8cCfgHn3QuFvcZwUV2KZf-qcM" style="margin-left: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhasan404&label=Profile%20views&color=0e75b6&style=flat" alt="walidhasan404" /> </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/olide-hasan-5b4708182" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100070635343012" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/olide-hasan-5b4708182" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100070635343012" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Technologies and Tools</h3>
@@ -47,17 +48,16 @@
 <h3 align="center">Projects</h3>
 
 ### Hall Management
-Website: https://muktijoddha-hall.web.app
-- **Overview:** Efficiently handle student's dining section. The dining manager is the admin of the website and can add meals, handle users and also can handle their interaction. Students can give request for food and share their feedback, they can like and give reviews on different meals. They can payment for their requested food and get served the food. Manager and students have different dashboards and they can handle their information individually.
-  
+Website: [https://muktijoddha-hall.web.app](https://muktijoddha-hall.web.app)
+- **Overview:** Efficiently handle student's dining section. The dining manager is the admin of the website and can add meals, handle users and also can handle their interaction. Students can request food, share feedback, like and review different meals, make payments for their requested food, and get served the food. Manager and students have different dashboards and they can handle their information individually.
 - **Technologies:** React, Node.js, MongoDB
 
 ### Library Management
-Website: https://library-management-86cd6-e1cb9.web.app
+Website: [https://library-management-86cd6-e1cb9.web.app](https://library-management-86cd6-e1cb9.web.app)
 - **Overview:** The Library Management System is designed to streamline library operations, offering functionalities for efficient book management, user account management, and inventory tracking. Students can borrow books.
 - **Technologies:** React, Node.js, MongoDB
 
 ### World Travel
-Website: walid-travel.surge.sh
+Website: [https://walid-travel.surge.sh](https://walid-travel.surge.sh)
 - **Overview:** Walid Travel is a platform designed for planning and booking travel experiences. It offers tools for itinerary planning, booking management, and user reviews, making it convenient for travelers to explore and organize their trips.
-- **Technologies:** React, Node.js, MongoDB 
+- **Technologies:** React, Node.js, MongoDB
