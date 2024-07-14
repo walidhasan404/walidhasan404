@@ -53,7 +53,7 @@ Website: https://muktijoddha-hall.web.app
 - **Technologies:** React, Node.js, MongoDB
 
 ### Library Management
-Website: https://library-management-86cd6.web.app
+Website: https://library-management-86cd6-e1cb9.web.app
 - **Overview:** The Library Management System is designed to streamline library operations, offering functionalities for efficient book management, user account management, and inventory tracking. Students can borrow books.
 - **Technologies:** React, Node.js, MongoDB
 
