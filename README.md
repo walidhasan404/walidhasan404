@@ -2,7 +2,7 @@
     <img src="https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1725494400&v=beta&t=zLemp0IaMuC7PXgGqORh35151XlWivQ08PykrKfMQtE" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
 </div>
 
-<h1 align="center">Muhammad Walid</h1>
+<h1 align="center">Muhammad Walid</h1> 
 <h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
 <h4 align="center">My Portfolio: <a href="https://portfolio-49220.web.app" target="_blank">https://portfolio-49220.web.app</a></h4>
 
