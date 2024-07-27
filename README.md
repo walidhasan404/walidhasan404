@@ -47,7 +47,7 @@
 
 <h3 align="center">Projects</h3>
 
-### Hall Management
+### Hall Dining Management
 Website: [https://muktijoddha-hall.web.app](https://muktijoddha-hall.web.app)
 - **Overview:** Efficiently handle student's dining section. The dining manager is the admin of the website and can add meals, handle users and also can handle their interaction. Students can request food, share feedback, like and review different meals, make payments for their requested food, and get served the food. Manager and students have different dashboards and they can handle their information individually.
 - **Technologies:** React, Node.js, MongoDB
