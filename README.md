@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px;">
-    <img src="https://i.ibb.co.com/nmwQNFs/81178b47a8598f0c81c4799f2cdd4057.gif" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
+    <img src="" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
 </div>
 
 <h1 align="center">Muhammad Walid</h1> 
