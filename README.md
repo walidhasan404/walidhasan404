@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px;">
-    <img src="![image](https://github.com/user-attachments/assets/ee9d50a8-225d-4ab4-8a4e-8eb9f012397a)
+    <img src="![image](https://github.com/user-attachments/assets/22901dc9-f6b8-4dd2-bf90-d0245af0f014)
 " style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
 </div>
 
