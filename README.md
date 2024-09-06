@@ -1,5 +1,6 @@
 <div style="background-color: #f0f0f0; padding: 20px;">
-    <img src="https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1725494400&v=beta&t=zLemp0IaMuC7PXgGqORh35151XlWivQ08PykrKfMQtE" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
+    <img src="![image](https://github.com/user-attachments/assets/ee9d50a8-225d-4ab4-8a4e-8eb9f012397a)
+" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
 </div>
 
 <h1 align="center">Muhammad Walid</h1> 
