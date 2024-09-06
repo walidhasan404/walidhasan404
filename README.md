@@ -1,6 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px;">
-    <img src="![image](https://github.com/user-attachments/assets/22901dc9-f6b8-4dd2-bf90-d0245af0f014)
-" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
+    <img src="https://github.com/user-attachments/assets/22901dc9-f6b8-4dd2-bf90-d0245af0f014" style="width: 100%; max-width: 1000px; margin: 0 auto; display: block;">
 </div>
 
 <h1 align="center">Muhammad Walid</h1> 
