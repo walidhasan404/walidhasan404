@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
 <h4 align="center">My Portfolio: <a href="https://portfolio-49220.web.app" target="_blank">https://portfolio-49220.web.app</a></h4>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1725494400&v=beta&t=eVBqYpkxNdqPem-Y8c8cCfgHn3QuFvcZwUV2KZf-qcM" style="margin-left: 20px;">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/kmQmQNk/Mern.png" style="margin-left: 20px;">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=walidhasan404&label=Profile%20views&color=0e75b6&style=flat" alt="walidhasan404" />
