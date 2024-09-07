@@ -8,11 +8,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1725494400&v=beta&t=eVBqYpkxNdqPem-Y8c8cCfgHn3QuFvcZwUV2KZf-qcM" style="margin-left: 20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhasan404&label=Profile%20views&color=0e75b6&style=flat" alt="walidhasan404" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=walidhasan404&label=Profile%20views&color=0e75b6&style=flat" alt="walidhasan404" />
+</p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/olide-hasan-5b4708182" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100070635343012" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/olide-hasan-5b4708182" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100070635343012" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="center">Technologies and Tools</h3>
@@ -40,9 +46,15 @@
 
 <h3 align="center">Pinned Repositories</h3>
 <p align="center">
-    <a href="https://github.com/walidhasan404/Hall-Management.git"><img src="https://navtark.com/wp-content/uploads/2023/05/Hostel-Management_03-1024x576.webp" alt="Hall Management" width="200"></a>
-    <a href="https://github.com/walidhasan404/Library-Management.git"><img src="https://my.chartered.college/wp-content/uploads/2021/10/martin-adams-1062002-unsplash.jpg" alt="Library Management" width="200"></a>
-    <a href="https://github.com/programming-hero-web-course-4/B9A10-client-side-walidhasan404.git"><img src="https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?w=740&t=st=1719952111~exp=1719952711~hmac=dc3a13a4114aba53d827ffb64aa673eb3863ea600f79d2f08ad435b80fd2bd18" alt="World Travel" width="200"></a>
+    <a href="https://github.com/walidhasan404/Hall-Management.git">
+        <img src="https://navtark.com/wp-content/uploads/2023/05/Hostel-Management_03-1024x576.webp" alt="Hall Management" width="200">
+    </a>
+    <a href="https://github.com/walidhasan404/Library-Management.git">
+        <img src="https://my.chartered.college/wp-content/uploads/2021/10/martin-adams-1062002-unsplash.jpg" alt="Library Management" width="200">
+    </a>
+    <a href="https://github.com/programming-hero-web-course-4/B9A10-client-side-walidhasan404.git">
+        <img src="https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?w=740&t=st=1719952111~exp=1719952711~hmac=dc3a13a4114aba53d827ffb64aa673eb3863ea600f79d2f08ad435b80fd2bd18" alt="World Travel" width="200">
+    </a>
 </p>
 
 <h3 align="center">Projects</h3>
